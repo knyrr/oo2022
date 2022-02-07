@@ -36,6 +36,6 @@ b - maja pikema (räästaga) külje pikkus
 c - pööningu kõrgus */
 
 /* 
-[marrun@greeny 01]$ java Funktsioonid4 8 10 3
+[marrun@greeny 01]$ java KatusePindala 8 10 3
 100.0 
 */
