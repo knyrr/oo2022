@@ -6,7 +6,6 @@ public class KatusePindala{
 		}
 		return v;
 	}
-	
 	public static double akeskm(double[] arvud){
 		if (arvud.length==0){
 			throw new RuntimeException("pole arve");
