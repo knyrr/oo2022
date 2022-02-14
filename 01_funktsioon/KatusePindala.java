@@ -5,16 +5,8 @@ public class KatusePindala{
 			v[i]=Double.parseDouble(sd[i]);
 		}
 		return v;
-	}
-	public static double akeskm(double[] arvud){
-		if (arvud.length==0){
-			throw new RuntimeException("pole arve");
-			}
-		double summa=0;
-		for(int i=0;i<arvud.length; i++){
-			summa+=arvud[i];
 		}
-		return summa/arvud.length;
+
 	}
 	public static void main(String[] args){
 		double[] arvud=reaalarvudeks(args);
