@@ -12,9 +12,6 @@ public class Akvaariumid {
         } else {
             kust.m22raVeesisaldus(kust.veesisaldus()-kogus);
             kuhu.m22raVeesisaldus(kuhu.veesisaldus()+kogus);  
-            
         }
-
     }
-
 }

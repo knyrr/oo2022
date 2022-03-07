@@ -19,7 +19,6 @@ public class Main{
         ad1.veeYmberValamine(a1, a2, 46000.0);
         System.out.println("1. akvaariumi veesisaldus: "+a1.veesisaldus()+"cm3");
         System.out.println("2. akvaariumi veesisaldus: "+a2.veesisaldus()+"cm3");
-
     }
 }
 
