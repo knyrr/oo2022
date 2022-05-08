@@ -42,7 +42,7 @@ public class Proov{
 	
 		; */
 		
-		//2 osa
+		//2 kysimus
 /* 		System.out.println("Vaadis on "+ vaat.joogiKogus+" l");
 		System.out.println("Pudeli tühimass on "+ 1000*pudel1.leiaMass()+" g");
 		
