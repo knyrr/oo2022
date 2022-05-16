@@ -1,0 +1,14 @@
+##Klassi kasutamine staatiliste funktsioonide kogumikuna (moodulina)
+
+https://www.journaldev.com/22394/static-method-in-java
+
+Võtmesõna "static"
+
+Staatilised funktsioonid on kättesaadavad ilma isendit loomata. St staatiline funktsioon kuulub klassi, mitte selle isendi juurde. 
+
+Kasutatakse, kui sõltub ainult sisestatud parameetrist. (Nt andmete teisendamine)
+Kuna isendit ei pea looma, siis on tõhusam.
+
+Sellele on võimalik saada ligi ka teistest klassidest.
+
+Main-meetod on samuti staatiline.
